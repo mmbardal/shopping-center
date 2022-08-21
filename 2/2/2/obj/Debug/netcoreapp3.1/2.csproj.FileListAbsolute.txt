@@ -1,0 +1,13 @@
+E:\term 2\تمرین شش\2\2\2\bin\Debug\netcoreapp3.1\2.exe
+E:\term 2\تمرین شش\2\2\2\bin\Debug\netcoreapp3.1\2.deps.json
+E:\term 2\تمرین شش\2\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+E:\term 2\تمرین شش\2\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+E:\term 2\تمرین شش\2\2\2\bin\Debug\netcoreapp3.1\2.dll
+E:\term 2\تمرین شش\2\2\2\bin\Debug\netcoreapp3.1\2.pdb
+E:\term 2\تمرین شش\2\2\2\obj\Debug\netcoreapp3.1\2.csproj.AssemblyReference.cache
+E:\term 2\تمرین شش\2\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+E:\term 2\تمرین شش\2\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+E:\term 2\تمرین شش\2\2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+E:\term 2\تمرین شش\2\2\2\obj\Debug\netcoreapp3.1\2.dll
+E:\term 2\تمرین شش\2\2\2\obj\Debug\netcoreapp3.1\2.pdb
+E:\term 2\تمرین شش\2\2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache
